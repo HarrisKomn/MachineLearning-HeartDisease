@@ -27,3 +27,4 @@ The aim of the project is to identify trends in heart data to predict certain ca
 13) thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 14) condition: 0 = no disease, 1 = disease
 
+![image](https://user-images.githubusercontent.com/43147324/86821795-81e1b600-c093-11ea-9644-87f6b48d7928.png)
