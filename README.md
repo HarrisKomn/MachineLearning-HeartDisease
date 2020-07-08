@@ -43,7 +43,10 @@ A predictive model is developed using Random Forest from scikit learn library. A
 # Feature importance
 Finally, we aim to invetigate the features which have the biggest impact on predictions using permutation importance from eli5 library. Permutation importance approach is fast to calculate, widely used and understood, and consistent with properties we would want a feature importance measure to have. The results of the analysis are the following:
 
+![image](https://user-images.githubusercontent.com/43147324/86924392-1140a500-c138-11ea-9e4d-ee95f0db7abb.png)
 
+The values towards the top are the most important features, and those towards the bottom are the least significant features.
+The number in each row demonstrates how much the performance of the model decreased with a random shuffling of the corresponding column data using the accuracy as the performance metric. ca, thal and cp are the most mportant features and those which influence most the final prediction of the model.
 
 # Acknowledgements
 Creators:
@@ -55,5 +58,9 @@ Creators:
 
 Donor:
 David W. Aha (aha '@' ics.uci.edu) (714) 856-8779
+
+# References
+ Kaggle for DataSource
+ (https://www.kaggle.com/ronitf/heart-disease-uci)
 
 
