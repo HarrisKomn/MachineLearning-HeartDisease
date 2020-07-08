@@ -34,6 +34,10 @@ Data correlation is the way in which one dataset may correspond to another datas
 ![image](https://user-images.githubusercontent.com/43147324/86821795-81e1b600-c093-11ea-9644-87f6b48d7928.png)
 
 
+# Model 
+A predictive model is developed using Random Forest from scikit learn library. Also, GridSearchCV is used for tuning the hyper-parameters of the estimator which  exhaustively considers all parameter combinations, evaluates them and the best combination is retained.
+
+
 
 # Acknowledgements
 Creators:
@@ -45,3 +49,5 @@ Creators:
 
 Donor:
 David W. Aha (aha '@' ics.uci.edu) (714) 856-8779
+
+
