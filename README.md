@@ -40,6 +40,9 @@ A predictive model is developed using Random Forest from scikit learn library. A
 ![image](https://user-images.githubusercontent.com/43147324/86923619-f28dde80-c136-11ea-86f6-06cd1b12e831.png)
 
 
+# Feature importance
+Finally, we aim to invetigate the features which have the biggest impact on predictions using permutation importance from eli5 library. Permutation importance approach is fast to calculate, widely used and understood, and consistent with properties we would want a feature importance measure to have. The results of the analysis are the following:
+
 
 
 # Acknowledgements
