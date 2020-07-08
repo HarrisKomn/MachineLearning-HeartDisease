@@ -27,7 +27,13 @@ The aim of the project is to identify trends in heart data to predict certain ca
 13) thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 14) condition: 0 = no disease, 1 = disease
 
+
+# Data correlation
+Data correlation is the way in which one dataset may correspond to another dataset. In Machine Learning, data correlation demonstrates how system's features correspond with system's output. We use data visualization in order to find how individual features may correlate with the output:
+
 ![image](https://user-images.githubusercontent.com/43147324/86821795-81e1b600-c093-11ea-9644-87f6b48d7928.png)
+
+
 
 # Acknowledgements
 Creators:
